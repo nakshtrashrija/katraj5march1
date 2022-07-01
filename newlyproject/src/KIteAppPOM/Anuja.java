@@ -5,7 +5,8 @@ public class Anuja {
 	public static void main(String[] args) {
 		// 
 		
-	 int a=29;
+	 
+	 float b=9.6
 	 }
 
 }
