@@ -7,12 +7,13 @@ import org.openqa.selenium.support.PageFactory;
 
 public class NewLOGINpage {
 	
+	
 	@FindBy(xpath = "//input[@id='userid']")private WebElement UN;
 	
 	
 	@FindBy(xpath = "//input[@id='password']")  private WebElement PASS;
 	
-	@FindBy(xpath = "//button[@class='button-orange wide']") private WebElement BUTTON;
+	//@FindBy(xpath = "//button[@class='button-orange wide']") private WebElement BUTTON;
 	
 	
 	public NewLOGINpage (WebDriver driver)
