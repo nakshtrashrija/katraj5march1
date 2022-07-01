@@ -20,7 +20,7 @@ public void UserIdvalidation()
 {
 	String Actualuserid=UserId.getText();
 	
-	String ExceptedUserId = "JM6075";
+	//String ExceptedUserId = "JM6075";
 	
 	
 	if(Actualuserid.equals(ExceptedUserId))
